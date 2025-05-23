@@ -398,6 +398,7 @@ achieving competitive performance with state-of-the-art models.
  Mistral-7B: An efficiency-focused model that outperforms larger LLaMA-based
 models on reasoning and mathematics tasks.
  Guanaco: Efficiently fine-tuned on LLaMA models using QLoRA, reaching nearChatGPT-level performance with minimal resource requirements.
+
 Claude Family
 
 The Claude.ai family, developed by Anthropic, emphasizes safety, ethical alignment, and
@@ -415,22 +416,26 @@ incorporating advanced techniques for alignment and transparency.
  Ethical Focus: A core principle in Claude.ai’s development is the use of
 constitutional AI, where the model adheres to a set of predefined ethical guidelines,
 improving its interaction quality and reducing biases over time
+
 Gemini Family
 
 The Gemini family, spearheaded by Google Deep Mind, represents a cutting-edge suite of
 multimodal AI models designed to integrate text, vision, and beyond. With a strong emphasis
 on versatility, Gemini aims to redefine interaction and productivity in artificial intelligence.
+
  Gemini 1:
 
 Introduced in late 2023, this model is a robust competitor to GPT-4, excelling in
 multilingual tasks, logical reasoning, and multimodal processing. Gemini 1’s ability
 to seamlessly understand and generate text alongside visual inputs has made it a
 powerful tool for domains like education, design, and scientific research.
+
  Scalability:
 
 The Gemini family spans across various model sizes, allowing developers to leverage
 its capabilities in resource-constrained settings or deploy high-performance versions
 for enterprise use.
+
  Integration:
 
 Gemini models are optimized for integration within Google’s ecosystem, enhancing
